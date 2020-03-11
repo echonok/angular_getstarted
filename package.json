@@ -1,0 +1,19 @@
+{
+  "name": "angular_getstarted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echonok/angular_getstarted.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echonok/angular_getstarted/issues"
+  },
+  "homepage": "https://github.com/echonok/angular_getstarted#readme"
+}
